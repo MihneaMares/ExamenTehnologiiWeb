@@ -1,0 +1,16 @@
+.entitati1 {
+    margin-top: 16px;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+    row-gap: 16px;
+  }
+  
+  .entitati1 > div {
+    width: 90vw;
+    border: solid;
+    border-radius: 5px;
+    padding: 8px;
+  }
+  
